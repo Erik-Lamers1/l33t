@@ -1,0 +1,14 @@
+Source: l33t
+Section: unknown
+Priority: optional
+Maintainer: Erik Lamers <mail@eriklamers.nl>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+Vcs-Git: https://github.com/Erik-Lamers1/l33t
+
+Package: l33t
+Architecture: all
+Depends: ${misc:Depends}
+Description: l33t hack time
+ Don't install this on an internet facing system :)
